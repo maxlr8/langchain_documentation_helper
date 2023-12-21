@@ -1,0 +1,5 @@
+flask
+typing
+streamlit
+langchain
+python-dotenv
